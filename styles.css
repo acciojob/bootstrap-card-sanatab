@@ -1,2 +1,11 @@
 
-/* Your CSS Code here. */
+.row{
+    display: flex;
+    overflow-x: auto;
+    overflow-y: hidden;
+    align-items: stretch;
+    flex-wrap: nowrap;
+}
+.sidebyside{
+    padding: 0 ;
+}
